@@ -1,0 +1,395 @@
+university_name,alias_names,state,city,zip,institutional_control,rank,tied,acceptance_rate,tuition,enrollment
+Princeton University,,NJ,Princeton,8544,private,1,False,6,59710,5604
+Massachusetts Institute of Technology,MIT,MA,Cambridge,2139,private,2,False,4,60156,4657
+Stanford University,,CA,Stanford,94305,private,3,True,4,62484,8049
+Harvard University,,MA,Cambridge,2138,private,3,True,3,59076,7240
+Yale University,,CT,New Haven,6520,private,5,False,5,64700,6645
+University of Pennsylvania,UPenn,PA,Philadelphia,19104,private,6,False,7,66104,9760
+Duke University,,NC,Durham,27708,private,7,True,6,66172,6640
+California Institute of Technology,CalTech Cal Tech,CA,Pasadena,91125,private,7,True,3,63255,982
+Northwestern University,,IL,Evanston,60208,private,9,True,7,65997,8659
+Brown University,,RI,Providence,2912,private,9,True,5,68230,7639
+Johns Hopkins University,JHU,MD,Baltimore,21218,private,9,True,7,63340,6044
+University of Chicago,UChicago,IL,Chicago,60637,private,12,True,5,65619,7470
+Columbia University,,NY,New York,10027,private,12,True,4,65524,8832
+Cornell University,,NY,Ithaca,14853,private,12,True,7,66014,15735
+"University of California, Los Angeles",UCLA University of California Los Angeles,CA,Los Angeles,90095,public,15,True,9,46326,32423
+"University of California, Berkeley",UC Berkeley Cal Berkeley University of California Berkeley,CA,Berkeley,94720,public,15,True,11,48465,32831
+Rice University,,TX,Houston,77005,private,17,False,9,58128,4494
+Dartmouth College,,NH,Hanover,3755,private,18,True,6,65511,4458
+Vanderbilt University,,TN,Nashville,37240,private,18,True,7,63946,7151
+University of Notre Dame,Notre Dame,IN,Notre Dame,46556,private,20,False,13,62693,8971
+University of Michigan--Ann Arbor,UM University of Michigan Ann Arbor,MI,Ann Arbor,48109,public,21,False,18,57273,32695
+University of North Carolina at Chapel Hill,UNC University of North Carolina Chapel Hill,NC,Chapel Hill,27599,public,22,True,17,39338,20210
+Georgetown University,,DC,Washington,20057,private,22,True,12,65082,7900
+University of Virginia,UVA,VA,Charlottesville,22904,public,24,True,19,58950,17496
+Washington University in St. Louis,WashU Washington University in St Louis Washington University in Saint Louis,MO,St. Louis,63130,private,24,True,11,62982,8132
+Carnegie Mellon University,CMU,PA,Pittsburgh,15213,private,24,True,11,63829,7509
+Emory University,,GA,Atlanta,30322,private,24,True,11,60774,7101
+University of Southern California,USC Southern Cal,CA,Los Angeles,90089,private,28,True,12,68237,20699
+"University of California, San Diego",UCSD University of California San Diego,CA,La Jolla,92093,public,28,True,24,48630,33096
+University of Florida,,FL,Gainesville,32611,public,28,True,23,28658,34552
+"University of California, Davis",UC Davis University of California Davis,CA,Davis,95616,public,28,True,37,46043,31532
+University of Texas at Austin,UT Austin University of Texas Austin,TX,Austin,78705,public,32,False,31,41070,41309
+"University of California, Irvine",UC Irvine UCI University of California Irvine,CA,Irvine,92697,public,33,True,21,47759,28661
+Georgia Institute of Technology,Georgia Tech,GA,Atlanta,30332,public,33,True,17,32876,18415
+"University of California, Santa Barbara",UCSB UC Santa Barbara University of California Santa Barbara,CA,Santa Barbara,93106,public,35,True,26,45658,23460
+University of Illinois Urbana-Champaign,University of Illinois Urbana Champaign,IL,Champaign,61820,public,35,True,45,36068,35120
+University of Wisconsin--Madison,University of Wisconsin Madison,WI,Madison,53706,public,35,True,49,40603,37230
+New York University,NYU,NY,New York,10012,private,35,True,12,60438,29401
+Boston College,BC,MA,Chestnut Hill,2467,private,39,False,17,67680,9484
+University of Washington,,WA,Seattle,98195,public,40,True,48,41997,36872
+Tufts University,,MA,Medford,2155,private,40,True,10,67844,6815
+Rutgers University--New Brunswick,"Rutgers University Rutgers, the State University of New Jersey New Brunswick",NJ,Piscataway,8854,public,40,True,66,36001,36344
+Purdue University--Main Campus,Purdue University West Lafayette Purdue University West Lafayette,IN,West Lafayette,47907,public,43,True,53,28794,37949
+The Ohio State University,OSU  Ohio State University Columbus,OH,Columbus,43210,public,43,True,53,36722,46123
+Boston University,BU,MA,Boston,2215,private,43,True,14,65168,18459
+"University of Maryland, College Park",UMD UMCP University of Maryland College Park,MD,College Park,20742,public,46,False,44,40306,30353
+Wake Forest University,,NC,Winston-Salem,27109,private,47,True,21,64758,5447
+Lehigh University,,PA,Bethlehem,18015,private,47,True,37,62180,5624
+University of Rochester,,NY,Rochester,14627,private,47,True,39,64384,6767
+Virginia Tech,,VA,Blacksburg,24061,public,47,True,57,36090,30434
+Texas A&M University,Texas A & M University--College Station Texas A and M University--College Station Texas A&M University College Station,TX,College Station,77843,public,47,True,63,40607,57512
+University of Georgia,UGA,GA,Athens,30602,public,47,True,43,30220,30714
+"University of Minnesota, Twin Cities",University of Minnesota Twin Cities,MN,Minneapolis,55455,public,53,True,75,36402,39248
+Northeastern University,,MA,Boston,2115,private,53,True,7,63141,16302
+William & Mary,William & Mary,VA,Williamsburg,23187,public,53,True,33,48841,6797
+Case Western Reserve University,,OH,Cleveland,44106,private,53,True,27,62234,6017
+Florida State University,FSU,FL,Tallahassee,32306,public,53,True,25,21683,32936
+University of Connecticut,UConn,CT,Storrs,6269,public,58,True,55,43034,18983
+Stony Brook University--SUNY,Stony Brook SUNY Stony Brook Stony Brook University SUNY,NY,Stony Brook,11794,public,58,True,49,30350,17509
+Brandeis University,,MA,Waltham,2454,private,60,True,39,62722,3687
+"University of California, Merced",,CA,Merced,95343,public,60,True,89,43777,8344
+The Pennsylvania State University--University Park,Penn State Pennsylvania State University University Park,PA,University Park,16802,public,60,True,55,38651,41745
+Rensselaer Polytechnic Institute,RPI,NY,Troy,12180,private,60,True,65,61884,5895
+Santa Clara University,,CA,Santa Clara,95053,private,60,True,52,59241,6115
+North Carolina State University,NC State North Carolina State University Raleigh,NC,Raleigh,27695,public,60,True,47,31976,26254
+Michigan State University,MSU,MI,East Lansing,48824,public,60,True,88,41958,39201
+George Washington University,GW GWU,DC,Washington,20052,private,67,True,49,64990,11482
+University of Miami,,FL,Coral Gables,33124,private,67,True,19,59926,12504
+University of Pittsburgh,Pitt,PA,Pittsburgh,15260,public,67,True,49,39890,19928
+Syracuse University,,NY,Syracuse,13244,private,67,True,52,63061,15421
+University of Massachusetts--Amherst,UMass Amherst University of Massachusetts Amherst,MA,Amherst,1003,public,67,True,64,39293,24391
+Villanova University,,PA,Villanova,19085,private,67,True,23,64906,6989
+Binghamton University--SUNY,Binghamton University SUNY Binghamton Binghamton University SUNY,NY,Binghamton,13902,public,73,True,42,28203,14402
+Tulane University,,LA,New Orleans,70118,private,73,True,11,65538,7350
+Indiana University--Bloomington,IU Bloomington Indiana University Bloomington,IN,Bloomington,47405,public,73,True,82,40482,35660
+Stevens Institute of Technology,,NJ,Hoboken,7030,private,76,True,46,60952,3988
+University of Delaware,,DE,Newark,19716,public,76,True,72,39720,18883
+"University of California, Riverside",UC Riverside University of California Riverside,CA,Riverside,92521,public,76,True,69,46266,22903
+University at Buffalo--SUNY,SUNY Buffalo University at Buffalo SUNY,NY,Buffalo,14214,public,76,True,68,30571,20761
+Colorado School of Mines,,CO,Golden,80401,public,76,True,58,42120,5733
+Pepperdine University,,CA,Malibu,90263,private,76,True,49,66742,3662
+University of Illinois--Chicago,UIC University of Illinois Chicago,IL,Chicago,60607,public,82,True,79,32833,21807
+"University of California, Santa Cruz",UC Santa Cruz University of California Santa Cruz,CA,Santa Cruz,95064,public,82,True,47,47862,17502
+Worcester Polytechnic Institute,WPI,MA,Worcester,1609,private,82,True,57,58870,5246
+Rutgers University--Newark,"Rutgers University Rutgers, the State University of New Jersey Newark",NJ,Newark,7102,public,82,True,74,35348,7511
+Marquette University,,WI,Milwaukee,53201,private,86,True,87,48700,7528
+Clemson University,,SC,Clemson,29634,public,86,True,43,39502,22566
+New Jersey Institute of Technology,NJIT,NJ,Newark,7102,public,86,True,66,34972,9019
+University of South Florida,,FL,Tampa,33620,public,89,True,44,17324,38046
+Fordham University,,NY,New York,10023,private,89,True,54,61567,10098
+Southern Methodist University,SMU,TX,Dallas,75275,private,89,True,52,64460,7056
+Temple University,,PA,Philadelphia,19122,public,89,True,80,35956,24106
+Auburn University,AU,AL,Auburn,36849,public,93,True,44,33944,25379
+Baylor University,,TX,Waco,76798,private,93,True,46,54844,15213
+Gonzaga University,,WA,Spokane,99258,private,93,True,70,53500,5084
+Loyola Marymount University,LMU,CA,Los Angeles,90045,private,93,True,41,58489,7299
+University of Iowa,,IA,Iowa City,52242,public,93,True,86,32927,21973
+Illinois Institute of Technology,Illinois Tech IIT,IL,Chicago,60616,private,98,True,61,51763,3125
+Rutgers University--Camden,"Rutgers University Rutgers, the State University of New Jersey Camden",NJ,Camden,8102,public,98,True,77,35841,4185
+University of Oregon,,OR,Eugene,97403,public,98,True,86,41194,19565
+Drexel University,,PA,Philadelphia,19104,private,98,True,80,60663,12482
+Rochester Institute of Technology,RIT,NY,Rochester,14623,private,98,True,67,57016,13940
+Texas Christian University,TCU,TX,Fort Worth,76129,private,98,True,56,57220,10523
+University of San Diego,,CA,San Diego,92110,private,98,True,53,56444,5669
+Arizona State University,ASU,AZ,Tempe,85287,public,105,True,90,32193,65492
+CUNY--City College,CUNY City College CUNY City College,NY,New York,10031,public,105,True,62,19010,11929
+"University of Tennessee, Knoxville",,TN,Knoxville,37996,public,105,True,68,31434,27039
+University of Colorado Boulder,CU Boulder University of Colorado Boulder,CO,Boulder,80309,public,105,True,79,41966,31103
+Yeshiva University,,NY,New York,10033,private,105,True,63,49900,2207
+California State University--Long Beach,Cal State University Long Beach California State University Long Beach,CA,Long Beach,90840,public,105,True,40,17200,32711
+San Diego State University,SDSU,CA,San Diego,92182,public,105,True,39,20170,31724
+Saint Louis University,St Louis University Saint Louis University,MO,St. Louis,63103,private,105,True,85,53244,7426
+George Mason University,GMU,VA,Fairfax,22030,public,105,True,90,37976,27014
+American University,,DC,Washington,20016,private,105,True,41,56544,7917
+Brigham Young University,BYU Provo Brigham Young University Provo,UT,Provo,84602,private,115,True,67,6496,31401
+The University of Texas at Dallas,University of Texas Dallas,TX,Richardson,75080,public,115,True,85,44812,21617
+SUNY College of Environmental Science and Forestry,SUNY ESF,NY,Syracuse,13210,public,115,True,70,21036,1621
+Iowa State University of Science and Technology,,IA,Ames,50011,public,115,True,90,26617,25241
+University of New Hampshire,UNH,NH,Durham,3824,public,115,True,87,38882,11480
+University of San Francisco,USF,CA,San Francisco,94117,private,115,True,71,58222,6018
+Howard University,HU,DC,Washington,20059,private,115,True,53,33344,9809
+University of Utah,,UT,Salt Lake City,84112,public,115,True,89,33045,26355
+University of Arizona,,AZ,Tucson,85721,public,115,True,87,37355,40407
+University of South Carolina,USC,SC,Columbia,29208,public,124,True,64,33928,27343
+University of Denver,DU,CO,Denver,80208,private,124,True,78,59340,6160
+University of Oklahoma,,OK,Norman,73019,public,124,True,73,25880,21294
+University of Central Florida,UCF,FL,Orlando,32816,public,124,True,41,22467,58749
+James Madison University,JMU,VA,Harrisonburg,22807,public,124,True,78,30790,20346
+University of Missouri,Mizzou,MO,Columbia,65211,public,124,True,79,34322,23752
+Fairfield University,,CT,Fairfield,6824,private,124,True,52,56360,4757
+Florida International University,FIU,FL,Miami,33199,public,124,True,64,18964,45442
+Creighton University,,NE,Omaha,68178,private,124,True,76,47000,4290
+California State University--Fullerton,Cal State University Fullerton California State University Fullerton,CA,Fullerton,92831,public,133,True,67,18954,35239
+"University of Maryland, Baltimore County",UMBC University of Maryland Baltimore County,MD,Baltimore,21250,public,133,True,81,30308,10625
+University at Albany--SUNY,SUNY Albany University at Albany SUNY,NY,Albany,12222,public,133,True,68,28998,12264
+University of Houston,,TX,Houston,77204,public,133,True,66,27110,37943
+University of Dayton,,OH,Dayton,45469,private,133,True,74,47600,8416
+Chapman University,,CA,Orange,92866,private,133,True,73,62784,7869
+University of Vermont,UVM,VT,Burlington,5405,public,133,True,60,43890,11898
+Elon University,,NC,Elon,27244,private,133,True,74,44536,6337
+Miami University--Oxford,Miami University Oxford Miami University Oxford,OH,Oxford,45056,public,133,True,88,38127,16865
+Clarkson University,,NY,Potsdam,13699,private,142,True,78,57950,2668
+Virginia Commonwealth University,VCU,VA,Richmond,23284,public,142,True,91,38247,20958
+University of Cincinnati,,OH,Cincinnati,45221,public,142,True,86,27140,29989
+University of Alabama at Birmingham,UAB University of Alabama Birmingham,AL,Birmingham,35294,public,142,True,87,26520,13032
+Loyola University Chicago,,IL,Chicago,60660,private,142,True,79,51706,11703
+Oregon State University,,OR,Corvallis,97331,public,142,True,83,35664,28905
+University of the Pacific,,CA,Stockton,95211,private,142,True,93,55340,3294
+Thomas Jefferson University,,PA,Philadelphia,19107,private,142,True,87,45733,3771
+Clark University,,MA,Worcester,1610,private,142,True,50,55187,2389
+Seton Hall University,,NJ,South Orange,7079,private,151,True,75,51370,6012
+University of Kansas,KU,KS,Lawrence,66045,public,151,True,88,28035,19241
+Duquesne University,,PA,Pittsburgh,15282,private,151,True,87,47146,5095
+DePaul University,,IL,Chicago,60604,private,151,True,70,44460,14134
+Michigan Technological University,,MI,Houghton,49931,public,151,True,86,41340,5710
+Colorado State University,,CO,Fort Collins,80523,public,151,True,91,33752,26062
+Simmons University,,MA,Boston,2115,private,151,True,76,45538,1789
+University of Rhode Island,URI,RI,Kingston,2881,public,151,True,76,35804,13927
+University of Kentucky,,KY,Lexington,40506,public,159,True,95,33406,22735
+University of Massachusetts--Lowell,UMass University of Massachusetts Lowell,MA,Lowell,1854,public,159,True,86,35396,12391
+University of Nebraska -- Lincoln,University of Nebraska Lincoln,NE,Lincoln,68588,public,159,True,79,27748,19189
+Stockton University,,NJ,Galloway,8205,public,159,True,86,23420,8138
+St. John's University (NY),St John's University Saint John's University St Johns University Saint Johns University St. Johns University,NY,Queens,11439,private,163,True,85,50110,15652
+Rowan University,,NJ,Glassboro,8028,public,163,True,77,25564,15264
+University of Mississippi,Ole Miss,MS,University,38677,public,163,True,97,26980,17302
+Seattle University,SU,WA,Seattle,98122,private,163,True,85,54285,4099
+University of St. Thomas (MN),University of St Thomas University of Saint Thomas,MN,St. Paul,55105,private,163,True,78,52284,5942
+Adelphi University,,NY,Garden City,11530,private,163,True,73,47290,5055
+Montclair State University,,NJ,Montclair,7043,public,163,True,91,22470,17290
+University of Hawaii at Manoa,UH Manoa University of Hawaii Manoa,HI,Honolulu,96822,public,170,True,73,34218,14198
+Quinnipiac University,,CT,Hamden,6518,private,170,True,84,53090,6073
+California State University--San Bernardino,Cal State University San Bernardino California State University San Bernardino,CA,San Bernardino,92407,public,170,True,91,14311,16813
+Mercer University,,GA,Macon,31207,private,170,True,75,40890,4859
+University of La Verne,,CA,La Verne,91750,private,170,True,75,48300,2414
+Kansas State University,,KS,Manhattan,66506,public,170,True,95,27816,15046
+Florida A&M University,Florida A & M Florida A and M FAM,FL,Tallahassee,32307,public,170,True,33,17725,7709
+The University of Alabama,,AL,Tuscaloosa,35487,public,170,True,80,33200,32458
+University of North Carolina--Charlotte,UNC University of North Carolina Charlotte,NC,Charlotte,28223,public,178,True,80,21338,23461
+The Catholic University of America,CUA,DC,Washington,20064,private,178,True,86,55834,3011
+Ohio University,OU,OH,Athens,45701,public,178,True,87,24114,17860
+San Francisco State University,SFSU,CA,San Francisco,94132,public,178,True,91,19404,21868
+Washington State University,,WA,Pullman,99164,public,178,True,83,29073,22612
+Drake University,,IA,Des Moines,50311,private,178,True,67,50114,2835
+University of Arkansas,,AR,Fayetteville,72701,public,178,True,79,28772,26269
+Samford University,,AL,Birmingham,35229,private,185,True,83,38144,3672
+"California State University, Fresno",Cal State University Fresno California State University Fresno,CA,Fresno,93740,public,185,True,95,13112,21305
+Bradley University,,IL,Peoria,61625,private,185,True,75,39680,4143
+University of Detroit Mercy,,MI,Detroit,48221,private,185,True,91,31058,3156
+Louisiana State University--Baton Rouge,LSU Baton Rouge Louisiana State University Baton Rouge Louisiana State University Baton Rouge,LA,Baton Rouge,70803,public,185,True,76,28631,30952
+University of Idaho,,ID,Moscow,83844,public,185,True,74,28052,8809
+Missouri University of Science and Technology,Missouri University of Science and Technology,MO,Rolla,65409,public,185,True,81,31862,5501
+St. John Fisher University,St John Fisher College Saint John Fisher College,NY,Rochester,14618,private,185,True,73,39666,2629
+Oklahoma State University,OSU,OK,Stillwater,74078,public,185,True,71,24764,20801
+Hofstra University,,NY,Hempstead,11549,private,185,True,69,55450,6110
+"University of Nevada, Reno",University of Nevada Reno,NV,Reno,89557,public,195,True,86,25950,16973
+Russell Sage College,,NY,Troy,12180,private,195,True,74,36756,1126
+Touro University,,NY,New York,10036,private,195,True,71,21810,4860
+University of Tulsa,,OK,Tulsa,74104,private,195,True,69,48102,2647
+University of Louisville,,KY,Louisville,40292,public,195,True,80,29174,15921
+East Carolina University,ECU,NC,Greenville,27858,public,195,True,92,23602,21688
+Robert Morris University,,PA,Moon Township,15108,private,201,True,94,34740,2782
+Valparaiso University,Valpo,IN,Valparaiso,46383,private,201,True,94,46588,2349
+La Salle University,LaSalle University,PA,Philadelphia,19141,private,201,True,94,35520,2776
+University of North Carolina--Wilmington,UNC University of North Carolina Wilmington,NC,Wilmington,28403,public,201,True,69,22985,14294
+The New School,,NY,New York,10011,private,201,True,57,56244,7208
+Wayne State University,,MI,Detroit,48202,public,201,True,75,31614,16116
+Indiana University-Purdue University--Indianapolis,IUPUI Indiana University-Purdue University Indianapolis Indiana University Purdue University Indianapolis,IN,Indianapolis,46202,public,201,True,83,33717,17727
+Xavier University,,OH,Cincinnati,45207,private,201,True,84,48125,4860
+Florida Atlantic University,,FL,Boca Raton,33431,public,209,True,81,21655,24229
+Illinois State University,,IL,Normal,61790,public,209,True,86,27011,18055
+Pacific University,,OR,Forest Grove,97116,private,209,True,92,54466,1639
+Chatham University,,PA,Pittsburgh,15232,private,209,True,66,43810,1499
+Sacred Heart University,,CT,Fairfield,6825,private,209,True,66,48460,6782
+University of Massachusetts--Dartmouth,UMass University of Massachusetts Dartmouth,MA,North Dartmouth,2747,public,209,True,96,30992,5517
+West Chester University of Pennsylvania,,PA,West Chester,19383,public,209,True,88,22261,14392
+Ball State University,,IN,Muncie,47306,public,216,True,69,28766,14416
+University of North Carolina at Greensboro,UNC University of North Carolina Greensboro,NC,Greensboro,27402,public,216,True,92,22539,14198
+Texas Tech University,,TX,Lubbock,79409,public,216,True,67,24092,32579
+West Virginia University,WVU,WV,Morgantown,26506,public,216,True,77,26568,19059
+University of Wyoming,,WY,Laramie,82071,public,216,True,96,22718,8518
+Springfield College,,MA,Springfield,1109,private,216,True,76,43707,2005
+University of St. Thomas (TX),University of St Thomas University of Saint Thomas,TX,Houston,77006,private,216,True,97,33660,2729
+Mississippi State University,,MS,Mississippi State,39762,public,216,True,70,26580,18305
+University of Massachusetts--Boston,UMass University of Massachusetts Boston,MA,Boston,2125,public,216,True,81,37211,12221
+St. Catherine University,St Catherine University Saint Catherine University,MN,St. Paul,55105,private,216,True,93,49758,2416
+The College of St. Scholastica,College of St Scholastica College of Saint Scholastica,MN,Duluth,55811,private,216,True,83,40454,1938
+Western Carolina University,,NC,Cullowhee,28723,public,227,True,85,8532,9956
+Misericordia University,,PA,Dallas,18612,private,227,True,76,38370,1777
+University of Texas Rio Grande Valley,,TX,Edinburg,78539,public,227,True,87,19333,26434
+Widener University,,PA,Chester,19013,private,227,True,88,53638,2555
+Kent State University,,OH,Kent,44242,public,227,True,88,22316,20418
+Nova Southeastern University,,FL,Ft. Lauderdale,33314,private,227,True,76,37080,6971
+Georgia State University,,GA,Atlanta,30302,public,227,True,61,29306,28927
+University of Alabama at Huntsville,University of Alabama Huntsville,AL,Huntsville,35899,public,227,True,78,24770,7169
+Grand Valley State University,,MI,Allendale,49401,public,235,False,92,20820,19379
+Bethel University (MN),,MN,St. Paul,55112,private,236,True,72,42930,2533
+Lipscomb University,,TN,Nashville,37204,private,236,True,71,38824,2955
+Gallaudet University,,DC,Washington,20002,private,236,True,59,18254,914
+Belmont University,,TN,Nashville,37212,private,236,True,96,41320,7376
+Western New England University,,MA,Springfield,1119,private,236,True,88,46430,2406
+Azusa Pacific University,,CA,Azusa,91702,private,236,True,87,42330,2588
+University of North Florida,,FL,Jacksonville,32224,public,236,True,71,20107,14171
+University of New Mexico,,NM,Albuquerque,87131,public,236,True,96,26452,15914
+University of North Dakota,,ND,Grand Forks,58202,public,236,True,83,15570,9928
+University of Colorado Denver,UC Denver University of Colorado Denver,CO,Denver,80217,public,236,True,75,35106,14055
+Biola University,,CA,La Mirada,90639,private,236,True,58,46704,3499
+The University of Texas at Arlington,UT Arlington University of Texas Arlington,TX,Arlington,76019,public,236,True,81,29660,30791
+Pace University,,NY,New York,10038,private,249,True,83,51424,8223
+University of Wisconsin--La Crosse,University of Wisconsin La Crosse,WI,La Crosse,54601,public,249,True,82,18814,9352
+University of Maine,UMaine,ME,Orono,4469,public,249,True,94,35346,9774
+Keiser University,,FL,Ft. Lauderdale,33309,private,249,True,97,36020,16960
+Northern Arizona University,NAU,AZ,Flagstaff,86011,public,249,True,80,28900,23207
+Union University,,TN,Jackson,38305,private,249,True,53,38300,1899
+North Dakota State University,,ND,Fargo,58108,public,249,True,96,15646,10096
+Suffolk University,,MA,Boston,2108,private,249,True,87,45380,4437
+Maryville University of St. Louis,Maryville University of St Louis Maryville University of Saint Louis,MO,St Louis,63141,private,249,True,88,27166,5809
+Sam Houston State University,,TX,Huntsville,77340,public,249,True,85,22996,18235
+Tennessee Tech University,,TN,Cookeville,38505,public,249,True,77,15030,8537
+Gannon University,,PA,Erie,16541,private,260,True,81,36676,2991
+University of North Texas,,TX,Denton,76203,public,260,True,79,24644,33024
+University of Missouri--St. Louis,University of Missouri St. Louis,MO,St. Louis,63121,public,260,True,51,31516,12431
+Gwynedd Mercy University,Gwynedd Mercy College,PA,Gwynedd Valley,19437,private,260,True,90,38310,1412
+Winston-Salem State University,Winston Salem State University,NC,Winston-Salem,27110,public,260,True,81,16932,4726
+Central Michigan University,,MI,Mount Pleasant,48859,public,260,True,79,14790,10421
+University of New England,UNE,ME,Biddeford,4005,private,260,True,96,42550,3718
+Regis University,,CO,Denver,80221,private,260,True,78,43980,2398
+Loyola University New Orleans,,LA,New Orleans,70118,private,260,True,78,47240,3289
+Lincoln Memorial University,,TN,Harrogate,37752,private,269,True,79,26150,1560
+University of Memphis,,TN,Memphis,38152,public,269,True,95,18024,16708
+George Fox University,,OR,Newberg,97132,private,269,True,92,40940,2534
+Florida Institute of Technology,Florida Tech,FL,Melbourne,32901,private,269,True,64,44360,3374
+University of South Dakota,,SD,Vermillion,57069,public,269,True,99,12942,7132
+"University of Nevada, Las Vegas",UNLV University of Nevada Las Vegas,NV,Las Vegas,89154,public,269,True,85,26099,25365
+Wilkes University,,PA,Wilkes-Barre,18766,private,269,True,94,42286,2000
+Seattle Pacific University,,WA,Seattle,98119,private,269,True,91,38814,2428
+Utah State University,,UT,Logan,84322,public,269,True,94,24802,24835
+Northern Illinois University,,IL,DeKalb,60115,public,269,True,71,12504,11429
+University of Missouri--Kansas City,UMKC University of Missouri Kansas City,MO,Kansas City,64110,public,269,True,69,30734,10190
+Southern Illinois University--Carbondale,Southern Illinois University Carbondale Southern Illinois University Carbondale,IL,Carbondale,62901,public,280,True,91,15522,8000
+Bowling Green State University,BGSU,OH,Bowling Green,43403,public,280,True,79,21424,13853
+Texas State University,Texas State University San Marcos,TX,San Marcos,78666,public,280,True,88,24447,33834
+Portland State University,PSU,OR,Portland,97207,public,280,True,93,24495,16864
+Clarke University,,IA,Dubuque,52001,private,280,True,67,39600,785
+DeSales University,,PA,Center Valley,18034,private,280,True,77,44800,2231
+Old Dominion University,ODU,VA,Norfolk,23529,public,280,True,95,32662,18375
+Marian University (IN),,IN,Indianapolis,46222,private,280,True,94,39100,2860
+Hampton University,HU,VA,Hampton,23668,private,280,True,45,29312,2794
+Immaculata University,,PA,Immaculata,19345,private,280,True,70,28550,1508
+University of Toledo,,OH,Toledo,43606,public,280,True,92,21280,11965
+Bellarmine University,,KY,Louisville,40205,private,280,True,88,46780,2343
+North Carolina Agricultural and Technical State University,North Carolina A & T State University North Carolina A and T State University,NC,Greensboro,27411,public,280,True,56,20243,11833
+University of St. Francis,University of St Francis University of Saint Francis,IL,Joliet,60435,private,280,True,58,37000,1417
+University of Texas at San Antonio,University of Texas San Antonio,TX,San Antonio,78249,public,280,True,87,26798,29654
+Oklahoma City University,,OK,Oklahoma City,73106,private,280,True,70,33586,1361
+California State University--East Bay,Cal State University East Bay California State University East Bay,CA,Hayward,94542,public,280,True,82,18875,12114
+University of the Incarnate Word,,TX,San Antonio,78209,private,296,True,93,35660,4724
+Saint Mary's University of Minnesota,St Mary's University of Minnesota Saint Mary's University of Minnesota St Marys University of Minnesota Saint Marys University of Minnesota St. Marys University of Minnesota,MN,Winona,55987,private,296,True,97,43160,1100
+New Mexico State University,NMSU,NM,Las Cruces,88003,public,296,True,78,27385,11591
+Southeastern Baptist Theological Seminary,,NC,Wake Forest,27587,private,296,True,90,10234,775
+Edgewood College,,WI,Madison,53711,private,296,True,95,33550,1233
+South Dakota State University,,SD,Brookings,57007,public,296,True,86,12809,9921
+Alvernia University,,PA,Reading,19607,private,296,True,59,42810,2018
+Aurora University,,IL,Aurora,60506,private,303,True,86,27420,4114
+Montana State University,MSU,MT,Bozeman,59717,public,303,True,73,27990,14648
+University of Indianapolis,,IN,Indianapolis,46227,private,304,True,76,36136,3613
+Florida Gulf Coast University,,FL,Fort Myers,33965,public,304,True,74,25161,14137
+Shenandoah University,,VA,Winchester,22601,private,304,True,74,36028,2461
+Ferris State University,,MI,Big Rapids,49307,public,304,True,88,14686,9000
+Louisiana Tech University,,LA,Ruston,71272,public,304,True,82,19608,10083
+Radford University,,VA,Radford,24142,public,304,True,93,24738,6008
+Oakland City University,,IN,Oakland City,47660,private,304,True,78,27150,699
+Concordia University Wisconsin,,WI,Mequon,53097,private,304,True,70,34250,2817
+Harding University,,AR,Searcy,72149,private,304,True,45,24888,3523
+Western Michigan University,,MI,Kalamazoo,49008,public,304,True,85,18218,14397
+University of Hartford,,CT,West Hartford,6117,private,304,True,83,47648,3969
+Middle Tennessee State University,,TN,Murfreesboro,37132,public,304,True,73,29584,17438
+University of Houston--Clear Lake,University of Houston Clear Lake,TX,Houston,77058,public,304,True,70,26081,6254
+University of Nebraska Omaha,University of Nebraska Omaha,NE,Omaha,68182,public,304,True,86,21718,12026
+The University of Texas at El Paso,UTEP University of Texas El Paso,TX,El Paso,79968,public,304,True,100,24952,20165
+University of Puerto Rico--Rio Piedras,University of Puerto Rico Rio Piedras,PR,Rio Piedras,931,public,320,True,50,2168,10207
+Kean University,,NJ,Union,7083,public,320,True,83,21076,10845
+Indiana University of Pennsylvania,,PA,Indiana,15705,public,320,True,92,14864,7047
+Marymount University,,VA,Arlington,22207,private,320,True,81,38250,2275
+Abilene Christian University,ACU,TX,Abilene,79699,private,320,True,66,42380,3189
+East Tennessee State University,ETSU,TN,Johnson City,37614,public,320,True,85,13484,10553
+D'Youville University,DYouville College,NY,Buffalo,14201,private,320,True,94,33540,1399
+Cleveland State University,CSU,OH,Cleveland,44115,public,320,True,85,17875,9950
+Campbell University,,NC,Buies Creek,27506,private,320,True,89,40410,2965
+Andrews University,,MI,Berrien Springs,49104,private,320,True,91,33710,1295
+St. Ambrose University,St Ambrose University Saint Ambrose University,IA,Davenport,52803,private,320,True,74,35598,2120
+Morgan State University,,MD,Baltimore,21251,public,332,True,85,18800,7609
+University of Wisconsin--Oshkosh,University of Wisconsin Oshkosh,WI,Oshkosh,54901,public,332,True,89,15368,11773
+Marshall University,,WV,Huntington,25755,public,332,True,91,19658,7962
+Boise State University,,ID,Boise,83725,public,332,True,84,26976,22962
+Wichita State University,,KS,Wichita,67260,public,332,True,68,18226,12696
+Augusta University,,GA,Augusta,30912,public,332,True,86,22270,5396
+University of Wisconsin--Milwaukee,University of Wisconsin Milwaukee,WI,Milwaukee,53201,public,332,True,95,21514,18751
+The Master's University and Seminary,Masters College and Seminary,CA,Santa Clarita,91321,private,332,True,78,32870,1765
+Texas Woman's University,Texas Womans University,TX,Denton,76204,public,332,True,94,23140,10150
+Southern Illinois University Edwardsville,Southern Illinois University Edwardsville Southern Illinois University Edwardsville,IL,Edwardsville,62026,public,332,True,98,12922,9321
+Oakland University,,MI,Rochester,48309,public,332,True,90,23188,12841
+University of Findlay,,OH,Findlay,45840,private,332,True,86,40186,3906
+Lesley University,,MA,Cambridge,2138,private,342,True,87,31364,1757
+Missouri State University,,MO,Springfield,65897,public,342,True,94,17144,18837
+Baker University,,KS,Baldwin City,66006,private,345,True,92,33800,1187
+University of Tennessee at Chattanooga,University of Tennessee Chattanooga,TN,Chattanooga,37403,public,345,True,83,25966,9884
+University of Louisiana at Lafayette,University of Louisiana Lafayette,LA,Lafayette,70504,public,345,True,75,24110,12950
+Concordia University -- Irvine,,CA,Irvine,92612,private,345,True,69,41390,1699
+Daemen University,,NY,Amherst,14226,private,345,True,73,33724,1782
+University of Lynchburg,,VA,Lynchburg,24501,private,345,True,96,35540,1589
+University of Hawaii at Hilo,UH Hilo University of Hawaii Hilo,HI,Hilo,96720,public,352,True,51,20798,2593
+Georgia Southern University,,GA,Statesboro,30460,public,352,True,89,20816,22003
+Walsh University,,OH,North Canton,44720,private,352,True,72,34595,1558
+Eastern Kentucky University,,KY,Richmond,40475,public,352,True,98,20222,12072
+Texas A&M University--Kingsville,Texas A & M University--Kingsville Texas A and M University--Kingsville Texas A&M University Kingsville,TX,Kingsville,78363,public,352,True,97,11445,4845
+University of Northern Colorado,,CO,Greeley,80639,public,352,True,84,26204,6728
+University of Southern Mississippi,,MS,Hattiesburg,39406,public,352,True,99,11618,10258
+Point Park University,,PA,Pittsburgh,15222,private,352,True,82,48070,2418
+Gardner-Webb University,Gardner Webb Gardner Webb University,NC,Boiling Springs,28017,private,356,True,79,33230,1983
+William Carey University,,MS,Hattiesburg,39401,private,356,True,57,14685,3337
+Carson-Newman University,Carson Newman College,TN,Jefferson City,37760,private,361,True,80,34700,1528
+Western Kentucky University,,KY,Bowling Green,42101,public,361,True,97,27000,14440
+The University of Akron,,OH,Akron,44325,public,361,True,83,17239,11323
+The University of Texas at Tyler,University of Texas Tyler,TX,Tyler,75799,public,361,True,94,25198,6971
+University of Montana,UMT,MT,Missoula,59812,public,361,True,95,31622,7215
+Clark Atlanta University,,GA,Atlanta,30314,private,361,True,56,26446,3427
+Husson University,,ME,Bangor,4401,private,361,True,91,22194,2453
+Arkansas State University,Arkansas State University Jonesboro Arkansas State University Jonesboro,AR,State University,72467,public,361,True,70,13312,8201
+Long Island University,,NY,Brookville,11548,private,369,True,93,41492,11319
+Texas A&M University--Commerce,Texas A & M University--Commerce Texas A and M University--Commerce Texas A&M University Commerce,TX,Commerce,75429,public,369,True,42,22626,7201
+Dominican University New York,,NY,Orangeburg,10962,private,369,True,89,33060,1097
+Regent University,,VA,Virginia Beach,23464,private,369,True,32,20685,4552
+University of Louisiana at Monroe,University of Louisiana Monroe,LA,Monroe,71209,public,369,True,72,21679,6472
+Mississippi College,,MS,Clinton,39058,private,369,True,40,21698,2396
+"University of Maryland, Eastern Shore",University of Maryland Eastern Shore,MD,Princess Anne,21853,public,369,True,81,19728,1933
+Wingate University,,NC,Wingate,28174,private,376,True,86,41516,2510
+University of Mary,,ND,Bismarck,58504,private,376,True,79,21062,2579
+Dallas Baptist University,,TX,Dallas,75211,private,376,True,91,38140,2968
+Eastern Michigan University,EMU,MI,Ypsilanti,48197,public,376,True,83,15170,11617
+Mount St. Joseph University,College of Mount St Joseph College of Mount Saint Joseph,OH,Cincinnati,45233,private,376,True,54,34900,1423
+Tarleton State University,,TX,Stephenville,76402,public,376,True,57,21932,12012
+Pontifical Catholic University of Puerto Rico--Ponce,,PR,Ponce,717,private,380,False,85,5920,4473
+Indiana State University,,IN,Terre Haute,47809,public,382,True,92,21734,6965
+Northern Kentucky University,,KY,Highland Heights,41099,public,382,True,86,21480,10776
+Palm Beach Atlantic University,,FL,West Palm Beach,33416,private,382,True,95,35900,3028
+Trevecca Nazarene University,,TN,Nashville,37210,private,382,True,71,27300,1867
+University of West Georgia,,GA,Carrollton,30118,public,382,True,80,20852,8687
+University of South Alabama,,AL,Mobile,36688,public,382,True,65,22640,8491
+University of Alaska--Fairbanks,University of Alaska Fairbanks,AK,Fairbanks,99775,public,389,True,65,22032,5844
+University of Bridgeport,,CT,Bridgeport,6604,private,389,True,73,35760,1873
+University of Arkansas at Little Rock,University of Arkansas Little Rock,AR,Little Rock,72204,public,390,True,56,18957,6236
+Saint Leo University,St Leo University Saint Leo University,FL,Saint Leo,33574,private,390,True,80,28360,2336
+Roosevelt University,,IL,Chicago,60605,private,390,True,88,20280,2391
+University of Michigan--Flint,UM University of Michigan Flint,MI,Flint,48502,public,390,True,66,25830,4609
